@@ -21,7 +21,7 @@
     <h3>Ca me les casse à Caracasse</h3>
     <div class="gallery">
       <img src="http://is3.mzstatic.com/image/thumb/Purple117/v4/d5/b3/9a/d5b39af6-6745-711c-37ea-3b705f4694f0/source/1200x630bb.jpg" alt="img">
-      <img src="images/SI_WiiUVC_SuperMetroid.jpg" alt="metroid">
+      <img src="maxresdefault.jpg" alt="gitgud">
     </div>
   </body>
 </html>
