@@ -1,4 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* ------ HEADER ------ */
+
 h1 {
   color: blue;
-  padding: 1em ;
+  padding: 1em;
+}
+h3 {
+  background-color: #fff;
+  color: red;
+  display: flex;
+  padding: 20px;
+}
+
+h2 {
+  color: red;
+  border-top: 1em;
 }
