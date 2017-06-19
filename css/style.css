@@ -23,3 +23,9 @@ h2 {
   border-top: 1em;
   text-align: center;
 }
+
+p {
+  font-style: italic;
+  font-weight: 600;
+  color: tomato;
+}
