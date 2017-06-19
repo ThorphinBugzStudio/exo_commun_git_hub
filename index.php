@@ -18,6 +18,7 @@ echo 'c\'est mon index !';
     <h1>Je suis bleu comme un oiseau bleu</h1>
 
     <h2>J' ai une git bite</h2>
+    <h2>pourquoi avez vous choisi cette branche ? parceque c est la plus belle et la plus solide #strategiedel'echec</h2> 
   </body>
 </html>
 <?php
