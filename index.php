@@ -22,15 +22,12 @@
 
     <div class="gallery">
       <img src="http://is3.mzstatic.com/image/thumb/Purple117/v4/d5/b3/9a/d5b39af6-6745-711c-37ea-3b705f4694f0/source/1200x630bb.jpg" alt="img">
-<<<<<<< HEAD
-<<<<<<< HEAD
-      <img src="maxresdefault.jpg" alt="gitgud">
-=======
+
+      <img src="images/maxresdefault.jpg" alt="gitgud">
+
       <img src="https://s-media-cache-ak0.pinimg.com/originals/60/d6/3b/60d63bdf611be9b67db790ab9c5c2576.jpg">
->>>>>>> f1aaf99b98bc631d82c33c0d3e882bb0b01331a9
-=======
+
       <img src="images/SI_WiiUVC_SuperMetroid.jpg" alt="metroid">
->>>>>>> cfebb4b66b956146b35ee17e9464224216ad8d47
     </div>
     <center><img src="https://s-media-cache-ak0.pinimg.com/originals/60/d6/3b/60d63bdf611be9b67db790ab9c5c2576.jpg" alt=""></center>
 
