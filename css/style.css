@@ -15,9 +15,11 @@ h3 {
   color: red;
   display: flex;
   padding: 20px;
+  text-align: right;
 }
 
 h2 {
   color: red;
   border-top: 1em;
+  text-align: center;
 }
