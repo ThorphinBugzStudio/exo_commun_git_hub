@@ -30,3 +30,14 @@ p {
   font-size: 3em;
   color: tomato;
 }
+img {
+  max-height: 300px;
+  max-width: 300px;
+}
+.gallery {
+  position: relative;
+  display: flex;
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center;
+}
