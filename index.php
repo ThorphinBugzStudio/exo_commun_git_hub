@@ -20,5 +20,5 @@ echo 'c\'est mon index !';
 </html>
 <?php
 
- echo 'saperlipopette';
+ echo 'toto en saperlipopette';
  ?>
