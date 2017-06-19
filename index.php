@@ -22,6 +22,11 @@
 
     <div class="gallery">
       <img src="http://is3.mzstatic.com/image/thumb/Purple117/v4/d5/b3/9a/d5b39af6-6745-711c-37ea-3b705f4694f0/source/1200x630bb.jpg" alt="img">
+
+      <img src="images/maxresdefault.jpg" alt="gitgud">
+
+      <img src="https://s-media-cache-ak0.pinimg.com/originals/60/d6/3b/60d63bdf611be9b67db790ab9c5c2576.jpg">
+
       <img src="images/SI_WiiUVC_SuperMetroid.jpg" alt="metroid">
     </div>
     <center><img src="https://s-media-cache-ak0.pinimg.com/originals/60/d6/3b/60d63bdf611be9b67db790ab9c5c2576.jpg" alt=""></center>
