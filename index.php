@@ -15,6 +15,6 @@
 </html>
 =======
 <?php
- echo 'Salut les coupain\'g'
+ echo 'Salut les coupain\'g';
  echo 'saperlipopette';
  ?>
