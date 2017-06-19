@@ -1,6 +1,11 @@
 
 
-<?php echo 'Salut les coupain\'g' ?>
+<?php // echo 'Salut les coupain\'g'
+
+echo 'c\'est mon index !';
+
+ ?>
+
 
 <!DOCTYPE html>
 <html>
