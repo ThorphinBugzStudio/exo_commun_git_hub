@@ -41,3 +41,35 @@ img {
   text-align: center;
   justify-content: center;
 }
+nav {
+  background-color: #212121;
+  height: 100px;
+  text-align: right;
+  position: relative;
+  position: relative;
+}
+ul {
+  display: inline-flex;
+  position: absolute;
+  right: 0;
+  top: 40px;
+}
+ul > li {
+  list-style: none;
+}
+ul > li > a {
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+  padding: 0 20px;
+  font-family: "Arial";
+}
+ul > li > a:hover {
+  color: red;
+}
+.mainTitle {
+  color: white;
+  font-size: 30px;
+  text-align: left;
+  font-family: "Arial";
+}
