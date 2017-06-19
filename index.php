@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 <?php echo 'Salut les coupain\'g' ?>
 
@@ -16,6 +16,5 @@
 =======
 <?php
  echo 'Salut les coupain\'g'
- echo 'saperlipopette'; 
+ echo 'saperlipopette';
  ?>
->>>>>>> 029cc75516fa3b6b4bfca858c20514fc8eb506ee
