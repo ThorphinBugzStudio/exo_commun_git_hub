@@ -2,3 +2,8 @@ h1 {
   color: blue;
   padding: 1em ;
 }
+
+h2 {
+  color: red;
+  border-top: 1em;
+}
