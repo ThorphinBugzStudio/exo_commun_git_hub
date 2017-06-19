@@ -37,7 +37,7 @@ img {
   border-style:inset;
 }
 img:hover{
-  filter:grayscale(0.5);
+  filter:grayscale(0.8);
 }
 .gallery {
   display: flex;
