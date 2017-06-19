@@ -33,6 +33,11 @@ p {
 img {
   max-height: 300px;
   max-width: 300px;
+  border: 2px solid tomato;
+  border-style:inset;
+}
+img:hover{
+  filter:grayscale(0.5);
 }
 .gallery {
   position: relative;
