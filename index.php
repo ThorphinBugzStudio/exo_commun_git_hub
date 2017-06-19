@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <?php echo 'Salut les coupain\'g' ?>
 
@@ -12,3 +13,9 @@
     <h1>Je suis bleu comme un oiseau bleu</h1>
   </body>
 </html>
+=======
+<?php
+ echo 'Salut les coupain\'g'
+ echo 'saperlipopette'; 
+ ?>
+>>>>>>> 029cc75516fa3b6b4bfca858c20514fc8eb506ee
