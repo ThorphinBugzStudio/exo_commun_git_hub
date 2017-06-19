@@ -13,8 +13,7 @@
     <h1>Je suis bleu comme un oiseau bleu</h1>
   </body>
 </html>
-=======
 <?php
- echo 'Salut les coupain\'g';
+
  echo 'saperlipopette';
  ?>
